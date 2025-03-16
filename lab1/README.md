@@ -81,7 +81,7 @@ mgmt:
 
 С помощью команды `sudo containerlab deploy -t lab1.yaml` развертываем сеть:
 
-![containerlab](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image1.png)
+![containerlab](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image1.png)
 
 
 ### 2. Настройка устройств
@@ -90,30 +90,30 @@ mgmt:
 1) R01:
 
 
-![Настройка R01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image2.png)
+![Настройка R01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image2.png)
 
 2) SW01.L3.01
 
 
-![Настройка SW01.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image3.png)
+![Настройка SW01.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image3.png)
 
 
 
 3) SW02.L3.01
    
-![Настройка SW02.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image4.png)
+![Настройка SW02.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image4.png)
 
 4) SW02.L3.02
 
 
-![Настройка SW02.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image5.png)
+![Настройка SW02.L3.02](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image5.png)
 
 
 ### 3. Проверка работоспособности сети
 
 
-![Проверка работоспособности](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image6.png)
+![Проверка работоспособности](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image6.png)
 
 ### 4. Диаграмма получившейся сети
 
-![Диаграмма](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image7.png)
+![Диаграмма](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/main/lab1/images/image7.png)
