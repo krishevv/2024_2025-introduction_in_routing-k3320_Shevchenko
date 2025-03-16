@@ -103,7 +103,7 @@ mgmt:
    
 ![Настройка SW02.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image4.png)
 
-4) SW02.L3.21
+4) SW02.L3.02
 
 
 ![Настройка SW02.L3.01](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/edit/main/lab1/images/image5.png)
