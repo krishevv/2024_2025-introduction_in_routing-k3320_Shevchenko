@@ -6,7 +6,7 @@ Course: Introduction in routing
 
 Year: 2024/2025
 
-Group: K33212
+Group: K3320
 
 Author: Shevchenko Kristina
 
