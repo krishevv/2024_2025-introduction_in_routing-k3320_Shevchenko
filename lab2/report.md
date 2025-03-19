@@ -85,7 +85,7 @@ topology:
 
 
 2. Схема связи
-![схема](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/raw/main/lab2/images/схема.png)
+![схема](https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/raw/main/lab2/images/схема_lab2.png)
 
 3. Настройка конфигурации устройств
 R01.MSK
