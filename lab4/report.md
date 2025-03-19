@@ -10,7 +10,7 @@ Group: K3320
 
 Author: Shevchenko Kristina
 
-Lab: Lab3
+Lab: Lab4
 
 Date of create: 14.12.2024
 
