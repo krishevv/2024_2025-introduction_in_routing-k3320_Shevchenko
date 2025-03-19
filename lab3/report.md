@@ -280,7 +280,7 @@ add area=backbone
 set name=R01.LBN
 ```
 
-    PC1:
+PC1:
 ```
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
