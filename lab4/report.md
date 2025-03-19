@@ -363,17 +363,13 @@ set name=PC3
 
 ## Вторая часть:
 
-Разбираем VRF на 3 роутерах.\
-Настраиваем VPLS на 3 роутерах.\
-Настраиваем IP адресацию на PC1,2,3 в одной сети.\
-Проверяем связность.
 
 
 #### 1. Схема сети второй части
 
 ![image]((https://github.com/krishevv/2024_2025-introduction_in_routing-k3320_Shevchenko/raw/main/lab4/images/схема2.png))
 
-#### 2. Измененные кнфигурации сетевых устройств R01.SPB R01.NY R01.SVL PC1 PC2 PC3
+#### 2. Изменение конфигурации сетевых устройств R01.SPB R01.NY R01.SVL PC1 PC2 PC3
 - Роутер R01.SPB
 ```
 /interface bridge
