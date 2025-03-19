@@ -10,11 +10,11 @@ Group: K3320
 
 Author: Shevchenko Kristina
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 14.12.2024
 
-Date of finished: 15.03.2025
+Date of finished: 19.03.2025
 
 # Отчет по лабораторной работе №2 "Эмуляция распределенной корпоративной сети связи, настройка статической маршрутизации между филиалами"
 
